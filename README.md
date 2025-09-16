@@ -8,8 +8,8 @@
 🌟 Passionate about **Leadership, open-source contributions, social learning, and building impactful digital solutions**  
 
 🌱 Currently working on:  
-- ⚡ **Synergex Solutions Ltd.** – A medical billing and IT services startup  
-- 🔥 **ETL-Empowerment Through Learning ** – A U.S.-based 501(c)(3) non-profit organization, aiming to build a vibrant online tech community where industry professionals passionately mentor and support IT students and recent graduates,
+- ⚡ **Synergex Solutions Ltd.** – A medical billing and IT services startup
+- 🔥 **ETL-Empowerment Through Learning.** – A U.S.-based 501(c)(3) non-profit organization, aiming to build a vibrant online tech community where industry professionals passionately mentor and support IT students and recent graduates,
 - 🏦 **Agile transformation initiatives** in financial services  
 
 ---
